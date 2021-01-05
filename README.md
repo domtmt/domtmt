@@ -19,13 +19,6 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=domtmt&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domtmt&layout=compact&theme=vue)](https://github.com/domtmt/domtmt)
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=domtmt&layout=compact&theme=vue)](https://github.com/domtmt/domtmt)
 
-
-**Github Stats:**
-
-<p align="center">
-  <img src="https://wakatime.com/share/@2223b2fe-83da-4754-b80e-e23be296c3ef/591ce811-924c-42c7-b4b7-5cc1c9b08635.svg">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domtmt&layout=compact&theme=vue)](https://github.com/domtmt/domtmt)
